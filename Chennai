@@ -1,0 +1,589 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Mobile Battery Replacement in Chennai | Mobile Vision</title>
+
+  <meta name="description" content="Looking for mobile battery replacement in Chennai? Visit Mobile Vision, Ritchie Street, Chennai for mobile battery replacement services. Call or WhatsApp 9962126411.">
+  
+  <meta name="keywords" content="mobile battery replacement Chennai, mobile battery service Chennai, phone battery replacement Chennai, battery replacement Ritchie Street, Mobile Vision Chennai">
+
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#101827">
+
+  <link rel="canonical" href="https://mobilerepairshop.co.in/">
+
+  <meta property="og:title" content="Mobile Battery Replacement in Chennai | Mobile Vision">
+  <meta property="og:description" content="Mobile battery replacement service at Mobile Vision, Ritchie Street, Chennai. Call or WhatsApp us today.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mobilerepairshop.co.in/">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MobilePhoneStore",
+    "name": "Mobile Vision",
+    "url": "https://mobilerepairshop.co.in/",
+    "telephone": "+91-9962126411",
+    "description": "Mobile phone battery replacement and mobile repair services in Ritchie Street, Chennai.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "No: 8, Nambi Trade Centre, Narasingapuram Street, Ritchie Street, Mount Road, Chintadripet",
+      "addressLocality": "Chennai",
+      "addressRegion": "Tamil Nadu",
+      "postalCode": "600002",
+      "addressCountry": "IN"
+    },
+    "hasMap": "https://maps.google.com/?q=Mobile+Vision+Ritchie+Street+Chennai",
+    "areaServed": {
+      "@type": "City",
+      "name": "Chennai"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+91-9962126411",
+      "contactType": "customer service"
+    }
+  }
+  </script>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f4f7fb;
+      color: #172033;
+      line-height: 1.7;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .top-bar {
+      background: #101827;
+      color: white;
+      padding: 10px 5%;
+      text-align: center;
+      font-size: 14px;
+    }
+
+    header {
+      background: white;
+      padding: 18px 6%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 15px;
+      flex-wrap: wrap;
+      box-shadow: 0 3px 15px #0000000d;
+    }
+
+    .logo {
+      font-size: 27px;
+      font-weight: 800;
+      color: #0b63ce;
+    }
+
+    .logo span {
+      color: #172033;
+    }
+
+    nav {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    nav a {
+      color: #172033;
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, #101827, #174e91);
+      color: white;
+      padding: 85px 7%;
+      text-align: center;
+    }
+
+    .hero .tag {
+      display: inline-block;
+      border: 1px solid #ffffff70;
+      padding: 6px 15px;
+      border-radius: 30px;
+      margin-bottom: 20px;
+      font-size: 14px;
+    }
+
+    .hero h1 {
+      font-size: clamp(30px, 5vw, 48px);
+      line-height: 1.2;
+      max-width: 850px;
+      margin: 0 auto 20px;
+    }
+
+    .hero p {
+      max-width: 700px;
+      margin: 0 auto 28px;
+      color: #e2eaf6;
+      font-size: 17px;
+    }
+
+    .buttons {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 13px 24px;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: 0.2s;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+    }
+
+    .btn-primary {
+      background: #ffbd35;
+      color: #172033;
+    }
+
+    .btn-whatsapp {
+      background: #20b965;
+      color: white;
+    }
+
+    .btn-outline {
+      border: 1px solid #ffffff90;
+      color: white;
+    }
+
+    .container {
+      width: min(1100px, 90%);
+      margin: auto;
+    }
+
+    section {
+      padding: 65px 0;
+    }
+
+    .section-title {
+      text-align: center;
+      font-size: clamp(25px, 4vw, 34px);
+      margin-bottom: 12px;
+      color: #101827;
+    }
+
+    .section-intro {
+      text-align: center;
+      max-width: 720px;
+      margin: 0 auto 35px;
+      color: #5c6678;
+    }
+
+    .service-boxes {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 22px;
+    }
+
+    .service-card {
+      background: white;
+      padding: 28px 22px;
+      border-radius: 14px;
+      box-shadow: 0 5px 25px #1020400b;
+      border: 1px solid #e8edf5;
+    }
+
+    .service-card .icon {
+      font-size: 34px;
+      margin-bottom: 10px;
+    }
+
+    .service-card h3 {
+      margin-bottom: 10px;
+      font-size: 19px;
+    }
+
+    .service-card p {
+      color: #5c6678;
+      font-size: 15px;
+    }
+
+    .about {
+      background: white;
+    }
+
+    .about-content {
+      max-width: 850px;
+      margin: auto;
+    }
+
+    .about-content h2 {
+      margin-bottom: 18px;
+      font-size: 30px;
+    }
+
+    .about-content p {
+      margin-bottom: 15px;
+      color: #4e596b;
+    }
+
+    .check-list {
+      list-style: none;
+      margin: 20px 0;
+    }
+
+    .check-list li {
+      padding: 6px 0;
+    }
+
+    .check-list li::before {
+      content: "✓ ";
+      color: #159957;
+      font-weight: bold;
+    }
+
+    .location-card {
+      background: white;
+      padding: 30px;
+      border-radius: 14px;
+      border: 1px solid #e8edf5;
+      text-align: center;
+    }
+
+    .location-card p {
+      margin: 12px 0;
+      color: #4e596b;
+    }
+
+    .contact-section {
+      background: #101827;
+      color: white;
+      text-align: center;
+    }
+
+    .contact-section .section-title {
+      color: white;
+    }
+
+    .contact-section p {
+      color: #d6deeb;
+      margin: 12px auto 25px;
+    }
+
+    .contact-number {
+      font-size: clamp(25px, 5vw, 38px);
+      font-weight: 800;
+      margin: 15px 0 25px;
+      color: #ffbd35;
+    }
+
+    footer {
+      background: #080e19;
+      color: #c6cedb;
+      text-align: center;
+      padding: 25px 15px;
+      font-size: 14px;
+    }
+
+    footer a {
+      color: #ffbd35;
+    }
+
+    .floating-whatsapp {
+      position: fixed;
+      right: 18px;
+      bottom: 20px;
+      background: #20b965;
+      color: white;
+      padding: 13px 18px;
+      border-radius: 40px;
+      font-weight: bold;
+      box-shadow: 0 4px 15px #0003;
+      z-index: 100;
+    }
+
+    @media (max-width: 600px) {
+      header {
+        justify-content: center;
+        text-align: center;
+      }
+
+      nav {
+        justify-content: center;
+        gap: 14px;
+      }
+
+      .hero {
+        padding: 65px 5%;
+      }
+
+      section {
+        padding: 48px 0;
+      }
+
+      .location-card {
+        padding: 22px 15px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="top-bar">
+    Mobile Vision | Ritchie Street, Chennai - 600002
+  </div>
+
+  <header>
+    <a href="https://mobilerepairshop.co.in/" class="logo">
+      MOBILE <span>VISION</span>
+    </a>
+
+    <nav aria-label="Main navigation">
+      <a href="#home">Home</a>
+      <a href="#services">Services</a>
+      <a href="#about">About Us</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="tag">Mobile Battery Service • Chennai</div>
+
+      <h1>
+        Mobile Battery Replacement in Chennai
+      </h1>
+
+      <p>
+        Looking for mobile battery replacement in Chennai?
+        Visit Mobile Vision, Ritchie Street, for mobile battery
+        replacement and professional mobile repair services.
+      </p>
+
+      <div class="buttons">
+        <a class="btn btn-primary"
+           href="tel:+919962126411">
+          📞 Call Now
+        </a>
+
+        <a class="btn btn-whatsapp"
+           href="https://wa.me/919962126411?text=Hi%20Mobile%20Vision%2C%20I%20need%20mobile%20battery%20replacement."
+           target="_blank"
+           rel="noopener">
+          WhatsApp Chat
+        </a>
+
+        <a class="btn btn-outline"
+           href="https://maps.google.com/?q=Mobile+Vision+Ritchie+Street+Chennai"
+           target="_blank"
+           rel="noopener">
+          📍 Get Directions
+        </a>
+      </div>
+    </section>
+
+    <section id="services">
+      <div class="container">
+        <h2 class="section-title">
+          Mobile Battery Replacement Services
+        </h2>
+
+        <p class="section-intro">
+          Get assistance with mobile battery replacement
+          at Mobile Vision in Ritchie Street, Chennai.
+          Contact us to check battery availability and pricing
+          for your mobile phone model.
+        </p>
+
+        <div class="service-boxes">
+
+          <article class="service-card">
+            <div class="icon">🔋</div>
+            <h3>Mobile Battery Replacement</h3>
+            <p>
+              Battery replacement service for supported
+              smartphone models. Contact us to check availability.
+            </p>
+          </article>
+
+          <article class="service-card">
+            <div class="icon">📱</div>
+            <h3>Multiple Mobile Brands</h3>
+            <p>
+              Ask us about battery replacement options
+              for your phone brand and model.
+            </p>
+          </article>
+
+          <article class="service-card">
+            <div class="icon">🛠️</div>
+            <h3>Mobile Repair Service</h3>
+            <p>
+              Contact Mobile Vision for mobile repair
+              and battery-related service enquiries.
+            </p>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="about" id="about">
+      <div class="container about-content">
+        <h2>
+          Mobile Vision – Battery Replacement in Ritchie Street
+        </h2>
+
+        <p>
+          Mobile Vision is a mobile service centre located
+          in Ritchie Street, Chennai. We provide mobile repair
+          services and battery replacement assistance for
+          supported smartphone models.
+        </p>
+
+        <p>
+          If your phone battery drains quickly, does not hold
+          a charge, or needs replacement, contact our team
+          to discuss the issue and available service options.
+        </p>
+
+        <ul class="check-list">
+          <li>Mobile battery replacement enquiries</li>
+          <li>Battery availability by phone model</li>
+          <li>Battery replacement price enquiries</li>
+          <li>Mobile repair service in Chennai</li>
+          <li>Convenient location at Ritchie Street</li>
+        </ul>
+
+        <p>
+          Call or WhatsApp Mobile Vision to enquire about
+          your mobile phone battery replacement.
+        </p>
+      </div>
+    </section>
+
+    <section id="location">
+      <div class="container">
+        <h2 class="section-title">
+          Visit Our Mobile Service Centre in Chennai
+        </h2>
+
+        <p class="section-intro">
+          Find Mobile Vision on Google Maps and get directions
+          to our Ritchie Street location.
+        </p>
+
+        <div class="location-card">
+          <h3>Mobile Vision</h3>
+
+          <p>
+            No: 8, Nambi Trade Centre,<br>
+            Narasingapuram Street, Ritchie Street,<br>
+            Mount Road, Chintadripet,<br>
+            Chennai, Tamil Nadu – 600002
+          </p>
+
+          <p>
+            <strong>Call / WhatsApp:</strong>
+            <a href="tel:+919962126411">9962126411</a>
+          </p>
+
+          <p>
+            <strong>Website:</strong>
+            <a href="https://mobilerepairshop.co.in/">
+              www.mobilerepairshop.co.in
+            </a>
+          </p>
+
+          <a class="btn btn-primary"
+             href="https://maps.google.com/?q=Mobile+Vision+Ritchie+Street+Chennai"
+             target="_blank"
+             rel="noopener">
+            Open Google Maps
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact-section" id="contact">
+      <div class="container">
+        <h2 class="section-title">
+          Need a Mobile Battery Replacement?
+        </h2>
+
+        <p>
+          Contact Mobile Vision, Ritchie Street, Chennai.
+          Ask us about your phone model, battery availability
+          and replacement price.
+        </p>
+
+        <div class="contact-number">
+          9962126411
+        </div>
+
+        <div class="buttons">
+          <a class="btn btn-primary"
+             href="tel:+919962126411">
+            📞 Call Mobile Vision
+          </a>
+
+          <a class="btn btn-whatsapp"
+             href="https://wa.me/919962126411?text=Hi%20Mobile%20Vision%2C%20I%20need%20mobile%20battery%20replacement."
+             target="_blank"
+             rel="noopener">
+            Chat on WhatsApp
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      © 2026 Mobile Vision. All Rights Reserved.
+    </p>
+
+    <p>
+      Mobile Battery Replacement in Chennai |
+      Ritchie Street, Chennai – 600002
+    </p>
+
+    <p>
+      <a href="https://mobilerepairshop.co.in/">
+        www.mobilerepairshop.co.in
+      </a>
+    </p>
+  </footer>
+
+  <a class="floating-whatsapp"
+     href="https://wa.me/919962126411?text=Hi%20Mobile%20Vision%2C%20I%20need%20mobile%20battery%20replacement."
+     target="_blank"
+     rel="noopener"
+     aria-label="Chat with Mobile Vision on WhatsApp">
+    WhatsApp Chat
+  </a>
+
+</body>
+</html>
